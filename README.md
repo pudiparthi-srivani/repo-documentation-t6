@@ -12,9 +12,8 @@
 |   commands        |   purpose                                          |
 | ------------------|----------------------------------------------------|
 | git soft rest     | it reset the file from commit area to staging area |
-|                   |                                                    |
 | git medium rest   | it reset the file from commit area to working area |
-|                   |                                                    |
 |git hard rest      | it reset the file from commit area to delete       |
 
-**-
+**-links**
+-📚my devops project link in git hub 🔗(https://github.com/srivani-pudiparthi/candyspark-dockerapplication.git)
